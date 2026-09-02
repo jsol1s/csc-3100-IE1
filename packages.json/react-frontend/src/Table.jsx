@@ -21,7 +21,7 @@ function TableBody(props){
 				<td>{row.job}</td>
 				<td>
 					<button onClick={() => props.removeCharacter(index) }>
-					  delete
+					  Delete
 					</button>
 				</td>
 			</tr>
