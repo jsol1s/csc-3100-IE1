@@ -7,7 +7,7 @@
   },
   "workspaces": [
 	"packages/*"
-	]
+	],
   "author": "",
   "license": "ISC",
   "description": ""
